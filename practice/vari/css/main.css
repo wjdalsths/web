@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+.start{
+    position: relative;
+
+}
+.home-logo{
+    margin-top: 125px;
+    text-align: center;
+}
+.home-content{
+    text-align: center;
+}
+
+.home-content{
+    text-align: center;
+    margin-top: 60px;
+}
+.title{
+    font-size: 30px;
+}
+
+.home-content-button{
+    margin-top: 80px;
+    text-align: center;
+}
+.button{
+
+    font-size: 1.685rem;
+    background: #395BB4;
+    color: #fff;
+    border-radius: 10px;
+    padding: 25px 110px;
+    
+}
+
+.wrapper{
+    text-align: center;
+}
+
+.wrapper a:visited { 
+    color: #9F9F9F; 
+} 
+
+footer {
+    color: #9F9F9F;
+    font-size: 0.875rem;
+    text-align: center;
+    margin-top: 5%;
+}

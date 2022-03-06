@@ -1,0 +1,76 @@
+.home-logo {
+  margin-top: 125px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+/* HOME
+----------------*/
+.wrapper {
+  text-align: center;
+  margin-top: 8%;
+}
+form div {
+  margin-bottom: 20px;
+  text-align: center;
+}
+label {
+  font-size: 1.125rem;
+  margin: 10px;
+  margin-right: 284px;
+  display: block;
+  text-align: center;
+}
+.password {
+  margin: 10px;
+  margin-right: 249px;
+}
+input[type="email"],
+textarea {
+  background: #f3f3f3;
+  border: 1px #fff solid;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1rem;
+  outline-style: none;
+}
+input[type="password"],
+textarea {
+  background: #f3f3f3;
+  border: 1px #fff solid;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1rem;
+  margin-bottom: 40px;
+  outline-style: none;
+}
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  max-width: 300px;
+}
+input[type="submit"] {
+  border: none;
+  cursor: pointer;
+  line-height: 1;
+}
+.button {
+  font-size: 1.325rem;
+  background: #395bb4;
+  color: #fff;
+  border-radius: 10px;
+  padding: 8px 130px;
+}
+.button:hover {
+  background: #424546;
+}
+.button2 {
+  background-color: #fff;
+  color: #9f9f9f;
+}
+footer {
+  font-size: 0.875rem;
+  text-align: center;
+  margin-top: 10%;
+}
